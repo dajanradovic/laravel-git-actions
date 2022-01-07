@@ -10,7 +10,7 @@ jobs:
 
     container:
 
-      image: kirschbaumdevelopment/laravel-test-runner:7.3
+      image: kirschbaumdevelopment/laravel-test-runner:7.4
 
  
 
